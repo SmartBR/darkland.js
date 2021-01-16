@@ -1,7 +1,7 @@
 # Darkland.js - Verificador de votos
 Verificador de votos da comunidade DarkLand.site
 
-Para usar é é bem simples, basta puxar o nosso método de validação.
+Para usar é bem simples, basta puxar o nosso método de validação:
 ```js
 const Discord = require("discord.js")
 const client = new Discord.Client()
