@@ -1,7 +1,7 @@
 {
   "name": "darkLand.js",
   "version": "1.0.0",
-  "description": "API da comunidade DarkLand.site",
+  "description": "Verificador de votos da comunidade DarkLand.site",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
