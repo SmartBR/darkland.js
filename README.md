@@ -1,6 +1,9 @@
 # Darkland.js - Verificador de votos
 Verificador de votos da comunidade DarkLand.site
 
+Primeiramente é preciso instalar a livraria:
+```npm install darkland --save```
+
 Para usar é bem simples, basta puxar o nosso método de validação:
 ```js
 const Discord = require("discord.js")
