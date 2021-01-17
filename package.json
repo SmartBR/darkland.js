@@ -1,6 +1,6 @@
 {
   "name": "darkland",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Verificador de votos da comunidade DarkLand.site",
   "main": "index.js",
   "scripts": {
